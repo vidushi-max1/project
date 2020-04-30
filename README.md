@@ -32,6 +32,8 @@ Here you can create a txt file that can be saved, can be opend later, text forma
 ![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/notepad3.PNG)
 ![Image description](lhttps://raw.githubusercontent.com/vidushi-max1/project/master/notepad4.PNG)
 ![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/notepad4.PNG)
+
+3. Data Flow
 ![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/flow.jpeg)
 
 
