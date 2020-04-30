@@ -1,14 +1,14 @@
 # project
 japps
 
-Objective: This is an app wordls project that gives user to two java application that he can use 
+Objective: This is an app wordls project that gives user to use two java application that he can use 
 
 1)Calculator
 2) Notepad
 
 both the app are made in java
 
-usrs of system : Anyon can access to these apps if he have source code
+users of system : Anyon can access to these apps if he have source code
 
 tools used : notepad ++ 
 
@@ -22,6 +22,8 @@ how project works: The calculator have a user  interface through you can do vari
 
 
 2. Second application is notepad
+
+Here you can create a txt file that can be saved, can be opend later, text format can be changed.
 
 
 
