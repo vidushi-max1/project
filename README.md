@@ -1,7 +1,7 @@
 # project
 japps
 
-Objective: This is an app worls project that gives user to two java application that he can use 
+Objective: This is an app wordls project that gives user to two java application that he can use 
 
 1)Calculator
 2) Notepad
