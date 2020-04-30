@@ -29,3 +29,7 @@ how project works: The calculator have a user  interface through you can do vari
 ![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/notepad2.PNG)
 ![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/notepad3.PNG)
 ![Image description](lhttps://raw.githubusercontent.com/vidushi-max1/project/master/notepad4.PNG)
+![Image description](https://raw.githubusercontent.com/vidushi-max1/project/master/notepad4.PNG)
+
+
+
